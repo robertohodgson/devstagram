@@ -1,0 +1,19 @@
+Configuración archivo .env  PC-PITO
+
+
+DB_CONNECTION=mysql
+DB_HOST=mysql
+DB_PORT=3306
+DB_DATABASE=devstagram
+DB_USERNAME=sail
+DB_PASSWORD=password
+
+Configuración archivo .env  LAPTOP-DELL
+
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=laravel
+DB_USERNAME=root
+DB_PASSWORD=
